@@ -6,7 +6,7 @@ import panel as pn  # GUI
 app = Flask(__name__)
 
 # Set your OpenAI API key
-openai.api_key = "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"
+openai.api_key = " "
 
 
 # Initialize context for TravelBot
