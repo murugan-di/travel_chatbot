@@ -7,8 +7,8 @@ import logging
 app = Flask(__name__)
 
 # Set your API keys
-openai.api_key = " "
-pinecone = Pinecone(api_key=" ")
+#openai.api_key = " "
+#pinecone = Pinecone(api_key=" ")
 
 
 # Pinecone index setup
