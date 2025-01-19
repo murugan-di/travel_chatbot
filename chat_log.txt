@@ -213,3 +213,103 @@ Bot: Sure! I can definitely help with that. Can you please provide me with your 
 User: hotel recommendatuons, and activity recommendations, and wha is the total cosr? - dubai
 Bot: Sure! For hotel recommendations in Dubai, I suggest checking out Atlantis The Palm, Burj Al Arab, or Jumeirah Beach Hotel. As for activities, you can visit the Burj Khalifa, Dubai Mall, or take a desert safari. The total cost will vary depending on your choices for accommodation and activities. It's best to research and compare prices to get an accurate estimate. Enjoy your trip to Dubai!
 ==================================================
+User: hi
+Bot: Hello! 😊 I'm excited to help you plan your travel. Where are you thinking of going? Do you have a specific destination in mind, or would you like some suggestions?
+==================================================
+User: singapore
+Bot: Singapore is a fantastic choice! However, I currently assist with travel plans to Dubai, Bali, Thailand, and the Maldives. Would you like to consider one of these destinations instead? If so, please let me know your preferences!
+==================================================
+User: dubai
+Bot: Great choice! Dubai is an amazing destination! 🌟 
+
+Could you please share your travel dates, budget, and any specific requirements you have in mind? For example, are you looking for flights included, type of accommodation, or is this for a special occasion?
+==================================================
+User: yes, everything
+Bot: Perfect! Just to clarify, could you please provide:
+
+1. Your travel dates?
+2. Your budget (keeping in mind that the budget for Dubai with flights is ₹50,000 per person, and ₹10,000 extra for flights)?
+3. The type of accommodation you prefer (e.g., luxury, family-friendly, etc.)?
+4. Is this trip for a special occasion like a honeymoon or anniversary? 
+
+This will help me tailor the best options for you! 😊
+==================================================
+User: 19th march 22nd arch
+Bot: Thank you for the dates! So, you're looking to travel from March 19th to March 22nd. 
+
+Now, could you please confirm your budget? Remember, the total for Dubai with flights is ₹50,000 per person, plus ₹10,000 extra for flights. Also, let me know if this trip is for a special occasion and your accommodation preferences!
+==================================================
+User: yes, honeymoon
+Bot: That sounds wonderful! 💖 Since it's a honeymoon, you’ll be eligible for a 10% discount on the package. 
+
+Now, just to summarize:
+- **Destination:** Dubai
+- **Travel Dates:** March 19th to March 22nd
+- **Budget:** ₹50,000 + ₹10,000 for flights (total ₹60,000 per person)
+- **Occasion:** Honeymoon (10% discount applies)
+
+Could you please let me know your accommodation preferences? For example, do you prefer luxury hotels, romantic resorts, or family-friendly options?
+==================================================
+User: romantic resorts
+Bot: Excellent choice! Dubai has some stunning romantic resorts perfect for a honeymoon. Here are a few options:
+
+1. **Burj Al Arab Jumeirah** - Iconic luxury with stunning views.
+2. **One&Only Royal Mirage** - A beautiful beachfront resort with a romantic ambiance.
+3. **Atlantis, The Palm** - Offers luxury and adventure with an underwater aquarium.
+
+Now, just to recap your travel plan:
+- **Destination:** Dubai
+- **Travel Dates:** March 19th to March 22nd
+- **Budget:** ₹60,000 per person (including flights)
+- **Occasion:** Honeymoon (10% discount)
+- **Accommodation:** Romantic resorts
+
+Before we finalize, please remember that a visa is required for Dubai, and it's best to book at least 3 months in advance. Would you like to proceed with this plan, or do you have any additional preferences or changes? 😊
+==================================================
+User: yes
+Bot: Fantastic! 🎉 Here’s your finalized travel plan:
+
+- **Destination:** Dubai
+- **Travel Dates:** March 19th to March 22nd
+- **Budget:** ₹60,000 per person (including flights)
+- **Occasion:** Honeymoon (10% discount applied)
+- **Accommodation:** Romantic resorts
+
+Please note that a visa is required for Dubai, and it's advisable to book at least 3 months in advance. 
+
+For payment, we can offer multiple installments with an extra 3% interest rate. Would you like to go ahead with the booking process, or do you have any other questions? 😊
+==================================================
+User: visa requirments?
+Bot: For Dubai, you'll need to apply for a tourist visa. Here are the key requirements:
+
+1. **Passport:** Valid for at least 6 months from your date of entry.
+2. **Passport-sized Photos:** Recent photographs as per the visa specifications.
+3. **Application Form:** Completed visa application form.
+4. **Travel Itinerary:** Proof of your travel plans (flight bookings and hotel reservations).
+5. **Financial Proof:** Bank statements or proof of sufficient funds for your stay.
+6. **Visa Fee:** Payment of the visa processing fee.
+
+The visa processing time usually takes about 3-5 working days, so it's best to apply well in advance.
+
+Would you like assistance with the visa application process, or do you have any other questions? 😊
+==================================================
+User: 3 days activities list?
+Bot: Absolutely! Here’s a suggested 3-day itinerary for your honeymoon in Dubai:
+
+### Day 1: Explore the City
+- **Morning:** Visit the **Burj Khalifa** and enjoy the stunning views from the observation deck.
+- **Afternoon:** Explore the **Dubai Mall**, including the Dubai Aquarium and the Fountain Show.
+- **Evening:** Take a romantic **dinner cruise** on Dubai Creek or the Marina.
+
+### Day 2: Adventure and Culture
+- **Morning:** Visit the **Dubai Miracle Garden** (if open) or the **Dubai Frame** for beautiful views.
+- **Afternoon:** Head to **Old Dubai** to explore the **Dubai Museum** and the **Gold and Spice Souks**.
+- **Evening:** Enjoy a traditional **desert safari** with dinner under the stars, including camel rides and cultural performances.
+
+### Day 3: Relaxation and Leisure
+- **Morning:** Spend a relaxing morning at your romantic resort or visit **Jumeirah Beach**.
+- **Afternoon:** Indulge in a couple's spa treatment at your resort.
+- **Evening:** Have a romantic dinner at a rooftop restaurant with views of the Burj Al Arab.
+
+This itinerary offers a mix of adventure, culture, and relaxation, perfect for a honeymoon! Would you like to make any adjustments or add specific activities? 😊
+==================================================
